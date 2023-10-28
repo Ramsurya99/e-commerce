@@ -6,3 +6,4 @@ export const ProductDetails = ({ product }) => {
       <p>Price: {product.price}</p>
     </div>
   );
+}
